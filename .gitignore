@@ -1,0 +1,3 @@
+.vagrant
+*go*.tar.gz
+etcd/src
