@@ -11,5 +11,5 @@ jobs:
       - type: debian
         name: etcdctl
         repos:
-          - mxm
+          - mxm-public
         target: install
